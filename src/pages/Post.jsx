@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import appwriteService from "../appwrite/config";
 import { Button, Container } from "../components";
@@ -49,6 +49,7 @@ export default function Post() {
                                     Edit
                                 </Button>
                             </Link>
+
                             <Button bgColor="bg-red-500" onClick={deletePost}>
                                 Delete
                             </Button>

@@ -10,6 +10,7 @@ A blogging platform where users can create, edit, and manage their blog posts. T
 - **Rich UI**: Built with React and styled using Tailwind CSS.
 - **State Management**: Powered by Redux Toolkit for state management.
 - **Form Validation**: Utilizes React Hook Form for seamless form handling.
+- **Redux toolkit**: A powerful tool for state management in React applications.
 
 ## Technologies Used
 
