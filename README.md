@@ -1,4 +1,5 @@
-# Appwrite Blog
+# PublishX
+
 
 A blogging platform where users can create, edit, and manage their blog posts. The project integrates features such as authentication and a rich text editor using TinyMCE, providing a seamless blogging experience.
 
